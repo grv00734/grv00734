@@ -86,7 +86,7 @@
 
 ---
 
-### 📍 GitHub Contribution Graph (Web-based)
+### 📍 GitHub Contribution 
 
 <p align="center">
   <img src="https://ghchart.rshah.org/grv00734" alt="Gaurav's GitHub Contribution Graph" />
